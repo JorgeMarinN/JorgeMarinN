@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JorgeMarinN
 - 👀 I’m interested in microelectronics, music and a lot of other stuff
 - 🌱 I’m currently learning how to use open source circuit design tools to fabricate microchips, how to play the trombone, and a lot of other stuff
-- 💞️ I’m looking to collaborate on designing integrated circuits from Chile
+- 💞️ I’m looking forward to collaborate on designing integrated circuits from Chile
 - 📫 How to reach me: jorge.marin.ndez@gmail.com
 
 <!---
